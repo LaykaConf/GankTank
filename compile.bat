@@ -1,1 +1,0 @@
-C:\gbdk\bin\lcc -Wa-l -Wl-m -Wl-j -o Gank_Tank.gb ejemplo.c 
